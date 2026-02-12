@@ -4,7 +4,7 @@
   "description": "Um clone do TabNews para fins e estudo.",
   "main": "index.js",
   "scripts": {
-    "dev": "next dev" 
+    "dev": "next dev"
   },
   "author": "Bruno N. Melo",
   "license": "MIT",
